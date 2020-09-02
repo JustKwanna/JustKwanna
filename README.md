@@ -36,7 +36,7 @@
 </a>
 
 [website]: https://kwanna.cf
-[twitter]: https://twitter.com/ZKenjiGaming
+[twitter]: https://twitter.com/JustKwanna
 [vscode]: https://code.visualstudio.com/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com/
