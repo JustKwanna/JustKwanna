@@ -3,7 +3,7 @@
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<strong> A little about me </strong>
+<h1> A little about me </h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
