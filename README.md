@@ -1,6 +1,6 @@
-### Hi there 👋 <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a>
+### Hello!, My name is JustKwanna <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
 
-<a
+
 
 ### - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
