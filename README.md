@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="Kwanna's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustKwanna&show_icons=true&theme=radical" />
+</a>
+<a href="Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKwanna&layout=compact&theme=radical" />
+</a>
 
 ![Kwanna's github stats](https://github-readme-stats.vercel.app/api?username=JustKwanna&show_icons=true&theme=radical)
 
