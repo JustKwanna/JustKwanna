@@ -12,7 +12,7 @@
 <li>- ⚡ Fun fact: ...</li>
 -->
 
-<h1> </h1>
+<hr> </hr>
 
 <a href="Kwanna's github stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustKwanna&show_icons=true&theme=radical" />
