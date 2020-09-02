@@ -1,8 +1,5 @@
 ### Hi there 👋 <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a>
 
-<!--
-**JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a
 
 ### - 🔭 I’m currently working on ...
@@ -14,6 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+**JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <a href="Kwanna's github stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustKwanna&show_icons=true&theme=radical" />
