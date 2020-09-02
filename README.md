@@ -3,9 +3,9 @@
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1> A little about me </h1>
+<a
 
-- 🔭 I’m currently working on ...
+### - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,9 +23,4 @@
 </a>
 
 
-<a href="https://github.com/JustKwanna/JustKwanna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKwanna&repo=JustKwanna&theme=radical" />
-</a>
-<a href="https://github.com/JustKwanna/JustKwanna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKwanna&repo=JustKwanna&theme=radical" />
-</a>
+
