@@ -11,7 +11,11 @@
 <li>- 📫 How to reach me: ...</li>
 <li>- 😄 Pronouns: ...</li>
 <li>- ⚡ Fun fact: ...</li>
--->
+
+Connect with me!:
+<a href="https://twitter.com/ZKenjiGaming"><i class="fab fa-twitter"></i></a>
+<a href="https://discord.bio/p/kwanna"><i class="fab fa-discord"></i></a>
+
 
 <hr> </hr>
 
