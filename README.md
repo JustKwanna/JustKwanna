@@ -22,10 +22,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKwanna&layout=compact&theme=radical" />
 </a>
 
-![Kwanna's github stats](https://github-readme-stats.vercel.app/api?username=JustKwanna&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustKwanna&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <a href="https://github.com/JustKwanna/JustKwanna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKwanna&repo=JustKwanna" />
