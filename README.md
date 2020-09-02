@@ -35,6 +35,10 @@
 
 [website]: https://kwanna.cf
 [twitter]: https://twitter.com/ZKenjiGaming
+[vscode]: https://code.visualstudio.com/
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[github]: https://github.com/
+
 
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
