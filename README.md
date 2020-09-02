@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 ![Kwanna's github stats](https://github-readme-stats.vercel.app/api?username=JustKwanna&show_icons=true&theme=dark)
 
-![Kwanna's github stats](https://github-readme-stats.vercel.app/api?username=JustKwanna&show_icons=true&theme=radical)
