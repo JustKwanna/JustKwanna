@@ -12,7 +12,7 @@
 <li>- 😄 Pronouns: ...</li>
 <li>- ⚡ Fun fact: ...</li>
 
-Connect with me!:
+<h3> Connect with me!: </h3>
 <a href="https://twitter.com/ZKenjiGaming"><i class="fab fa-twitter"></i></a>
 <a href="https://discord.bio/p/kwanna"><i class="fab fa-discord"></i></a>
 
