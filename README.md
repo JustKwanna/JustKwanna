@@ -16,8 +16,8 @@
 <a href="https://twitter.com/ZKenjiGaming"><i class="fab fa-twitter"></i></a>
 <a href="https://discord.bio/p/kwanna"><i class="fab fa-discord"></i></a>
 
-<h3> Languages and Tools!: </h3>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
+<h3> Languages and Tools!: 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"> </h3>
 
 
 <hr> </hr>
