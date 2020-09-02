@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kwanna.cf" width="22px" src="kwanna.cf" />][kwanna.cf]
+[<img align="left" alt="kwanna.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][kwanna.cf]
 [<img align="left" alt="KenjiGaming | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ### Languages and Tools:
@@ -32,6 +32,9 @@
 <a href="Top Langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKwanna&layout=compact&theme=radical" />
 </a>
+
+[website]: https://kwanna.cf
+[twitter]: https://twitter.com/NiinaDev
 
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
