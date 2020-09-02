@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/JustKwanna/JustKwanna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKwanna&repo=JustKwanna" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKwanna&repo=JustKwanna&theme=radical" />
 </a>
 <a href="https://github.com/JustKwanna/JustKwanna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKwanna&repo=JustKwanna" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKwanna&repo=JustKwanna&theme=radical" />
 </a>
