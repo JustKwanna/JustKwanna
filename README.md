@@ -1,4 +1,4 @@
-### Hello!, My name is JustKwanna <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
+### Hello!, My name is JustKwanna, <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
 
 
 
