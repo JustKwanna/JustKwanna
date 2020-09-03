@@ -8,7 +8,7 @@
 <li> 🎁 That's all thank you! </li>
 
 ### Spotify Playing 🎧
-[<img src="https://spotifyk.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://spotifyk.vercel.app/api/spotify)](https://open.spotify.com/user/JustKwanna)`
 
 ### Connect with me:
 
