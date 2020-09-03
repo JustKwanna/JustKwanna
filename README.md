@@ -8,7 +8,7 @@
 <li> 🎁 That's all thank you! </li>
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotifyk.vercel.app/api/spotify)](https://open.spotify.com/user/spotifyk)
+[![Spotify](https://spotifyk.vercel.app/api/spotify)](https://open.spotify.com/user/JustKwanna)
 
 ### Connect with me:
 
