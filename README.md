@@ -8,7 +8,7 @@
 <li> 🎁 That's all thank you! </li>
 
 ### Spotify Playing 🎧
- [<img src="https://novatoreme.vercel.app/api/spotify" alt="Kwanna Spotify Playing" width="350" />](https://open.spotify.com/user/JustKwanna)
+ [<img src="https://novatoreme.vercel.app/api/spotify" alt="Kwanna Spotify Playing" width="350" />](https://open.spotify.com/user/kjvmwsuld7qaforp888l0mvr6)
 
 
 ### Connect with me:
