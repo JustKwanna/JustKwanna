@@ -7,8 +7,8 @@
 <li> ❤ I really enjoy watching anime I take that as my hobby</li>
 <li> 🎁 That's all thank you! </li>
 
-### Spotify Playing 🎧
-[<img src="https://justkwanna.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://justkwanna.vercel.app/api/spotify)](https://open.spotify.com/user/JustKwanna)
+
 
 ### Connect with me:
 
