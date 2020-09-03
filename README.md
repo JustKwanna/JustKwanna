@@ -7,7 +7,8 @@
 <li> ❤ I really enjoy watching anime I take that as my hobby</li>
 <li> 🎁 That's all thank you! </li>
 
-
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="JustKwanna Spotify Playing" width="350" />](https://open.spotify.com/user/kjvmwsuld7qaforp888l0mvr6)
 
 ### Connect with me:
 
@@ -41,6 +42,7 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com/
 
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
