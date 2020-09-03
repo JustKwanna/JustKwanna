@@ -36,6 +36,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKwanna&layout=compact&theme=radical" />
 </a>
 
+<!--START_SECTION:activity-->
+
 [website]: https://kwanna.cf
 [twitter]: https://twitter.com/JustKwanna
 [vscode]: https://code.visualstudio.com/
