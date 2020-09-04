@@ -11,6 +11,10 @@
 
 
 ## The creator of Aiko, and a fan of pokemon 
+<img hight="300" width="280" alt="JPG" align="right" src="https://cdn.discordapp.com/attachments/728870112668418059/748463642420445194/20200827_144631.jpg">
+<img hight="300" width="280" alt="JPG" align="right" src="https://cdn.discordapp.com/attachments/728870112668418059/748463642810253342/20200827_144655.jpg">
+<img hight="300" width="280" alt="JPG" align="right" src="https://cdn.discordapp.com/attachments/728870112668418059/748463643099660388/20200827_144714.jpg">
+
 
 
 <li> 😶 I'm currently new at developing </li>
