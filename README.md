@@ -1,7 +1,6 @@
 ### Hello!, My name is JustKwanna, <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
 
 [![Website](https://img.shields.io/website?label=kwanna.cf&style=for-the-badge&url=https%3A%2F%2Fkwanna.cf)](https://kwanna.cf) 
-[![HitCount](http://hits.dwyl.com/JustKwanna/JustKwanna.svg)](http://hits.dwyl.com/JustKwanna/JustKwanna) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JustKwanna?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/JustKwanna) 
 [![HitCount](http://hits.dwyl.com/JustKwanna/JustKwanna.svg)](http://hits.dwyl.com/JustKwanna/JustKwanna) 
 
