@@ -4,7 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JustKwanna?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/JustKwanna) 
 [![HitCount](http://hits.dwyl.com/JustKwanna/JustKwanna.svg)](http://hits.dwyl.com/JustKwanna/JustKwanna) 
 
-### UwU
+## UwU
+
 
 <li> 😶 I'm currently new at developing </li>
 <li> ❤ I really enjoy watching anime I take that as my hobby</li>
