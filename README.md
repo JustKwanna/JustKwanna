@@ -1,5 +1,7 @@
 ### Hello!, My name is JustKwanna, <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
 
+[![HitCount](http://hits.dwyl.com/JustKwanna/JustKwanna.svg)](http://hits.dwyl.com/JustKwanna/JustKwanna)
+
 <h2> A little about me! </h2>
 
 
