@@ -3,7 +3,8 @@
 [![Website](https://img.shields.io/website?label=kwanna.cf&style=for-the-badge&url=https%3A%2F%2Fkwanna.cf)](https://kwanna.cf) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JustKwanna?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/JustKwanna) 
 ![Watchers](https://img.shields.io/github/watchers/JustKwanna/JustKwanna?color=32CD32&style=for-the-badge)
-[![Profile Views](https://komarev.com/ghpvc/?username=JustKwanna&style=flat-square&color=brightgreen)](https://komarev.com/ghpvc/?username=JustKwanna&style=flat-square&color=green) 
+[![Aiko's Support Server](https://img.shields.io/discord/743324121714131056?label=Aiko%27s%20Support%20Server&style=for-the-badge)](https://discord.gg/hb32dpF) 
+
 
 
 ## UwU
