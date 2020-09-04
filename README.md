@@ -52,7 +52,6 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com/
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justkwanna" alt="justkwanna" /> </p>
 
