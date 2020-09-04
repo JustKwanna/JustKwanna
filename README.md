@@ -9,7 +9,7 @@
 
 
 
-## The creator of Aiko, and a fan of pokemon :3
+## The creator of Aiko, and a fan of pokemon 
 
 
 <li> 😶 I'm currently new at developing </li>
