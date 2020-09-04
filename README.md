@@ -69,8 +69,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-![Pokemon](https://cdn.discordapp.com/attachments/666639492668588073/750992713511469086/trainercard-JustKwanna.png)
-
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
