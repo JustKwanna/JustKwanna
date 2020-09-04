@@ -12,4 +12,4 @@ steps:
   - uses: actions/checkout@v2
   - uses: gautamkrishnar/blog-post-workflow@master
     with:
-      feed_list: "https://dev.to/feed/justkwanna, https://medium.com/feed/@justkwanna"
+      feed_list: "https://twitter.com/feed/JustKwanna, https://medium.com/feed/@justkwanna"
