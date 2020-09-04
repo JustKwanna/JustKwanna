@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=kwanna.cf&style=for-the-badge&url=https%3A%2F%2Fkwanna.cf)](https://kwanna.cf) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JustKwanna?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/JustKwanna) 
 [![HitCount](http://hits.dwyl.com/JustKwanna/JustKwanna.svg)](http://hits.dwyl.com/JustKwanna/JustKwanna) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JustKwanna&style=flat-square&color=green" alt="JustKwanna" /> </p>
+
 
 ## UwU
 
@@ -56,7 +58,7 @@
 [github]: https://github.com/
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JustKwanna" alt="JustKwanna" /> </p>
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
