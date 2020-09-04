@@ -7,7 +7,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/JustKwanna/JustKwanna?style=for-the-badge)
 [![Aiko's Support Server](https://img.shields.io/discord/743324121714131056?label=Aiko%27s%20Support%20Server&style=for-the-badge)](https://discord.gg/hb32dpF) 
 
-<img hight="300" width="280" alt="PNG" align="right" src="https://cdn.discordapp.com/attachments/666639492668588073/750992713511469086/trainercard-JustKwanna.png">
+<img hight="300" width="280" alt="GIF" align="right" src="https://tenor.com/view/kobayashisan-chi-no-maid-dragon-gif-7876626">
 
 
 ## The creator of Aiko, and a fan of pokemon 
