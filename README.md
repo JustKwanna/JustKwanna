@@ -40,9 +40,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKwanna&layout=compact&theme=radical" />
 </a>
 
+## Recent Github Activity
 <!--START_SECTION:activity-->
-
-
 <!--END_SECTION:activity-->
 
 
