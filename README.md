@@ -7,14 +7,10 @@
 ![Last Commit](https://img.shields.io/github/last-commit/JustKwanna/JustKwanna?style=for-the-badge)
 [![Aiko's Support Server](https://img.shields.io/discord/743324121714131056?label=Aiko%27s%20Support%20Server&style=for-the-badge)](https://discord.gg/hb32dpF) 
 
-<img hight="300" width="280" alt="GIF" align="right" src="https://tenor.com/view/kobayashisan-chi-no-maid-dragon-gif-7876626">
+<img hight="300" width="280" alt="GIF" align="right" src="https://thumbs.gfycat.com/CalculatingNeglectedGoldeneye-max-1mb.gif">
 
 
 ## The creator of Aiko, and a fan of pokemon 
-<img hight="300" width="280" alt="JPG" align="right" src="https://cdn.discordapp.com/attachments/728870112668418059/748463642420445194/20200827_144631.jpg">
-<img hight="300" width="280" alt="JPG" align="right" src="https://cdn.discordapp.com/attachments/728870112668418059/748463642810253342/20200827_144655.jpg">
-<img hight="300" width="280" alt="JPG" align="right" src="https://cdn.discordapp.com/attachments/728870112668418059/748463643099660388/20200827_144714.jpg">
-
 
 
 <li> 😶 I'm currently new at developing </li>
