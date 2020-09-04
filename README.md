@@ -53,7 +53,7 @@
 [github]: https://github.com/
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justkwanna" alt="justkwanna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JustKwanna" alt="JustKwanna" /> </p>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
