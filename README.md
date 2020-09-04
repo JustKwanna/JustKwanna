@@ -55,14 +55,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justkwanna" alt="justkwanna" /> </p>
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-<a href="https://dev.to/justkwanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="justkwanna" height="30" width="30" /></a>
-<a href="https://medium.com/@voidthebeast27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@voidthebeast27" height="30" width="30" /></a>
-</p>
 
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
