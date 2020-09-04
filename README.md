@@ -10,7 +10,7 @@
 
 
 ## The creator of Aiko, and a fan of pokemon 
-                                               ![Pokemon](https://cdn.discordapp.com/attachments/666639492668588073/750992713511469086/trainercard-JustKwanna.png)
+![Pokemon](https://cdn.discordapp.com/attachments/666639492668588073/750992713511469086/trainercard-JustKwanna.png)
 
 
 <li> 😶 I'm currently new at developing </li>
