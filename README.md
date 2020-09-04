@@ -1,7 +1,7 @@
 ### Hello!, My name is JustKwanna, <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
 
 [![HitCount](http://hits.dwyl.com/JustKwanna/JustKwanna.svg)](http://hits.dwyl.com/JustKwanna/JustKwanna) 
-[Twitter Follow](https://img.shields.io/twitter/follow/JustKwanna?color=1DA1F2&logo=Twitter&style=for-the-badge
+![Twitter Follow](https://img.shields.io/twitter/follow/JustKwanna?color=1DA1F2&logo=Twitter&style=for-the-badge
 )
 <h2> A little about me! </h2>
 
