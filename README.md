@@ -42,6 +42,10 @@
 
 <!--START_SECTION:activity-->
 
+
+<!--END_SECTION:activity-->
+
+
 [website]: https://kwanna.cf
 [twitter]: https://twitter.com/JustKwanna
 [vscode]: https://code.visualstudio.com/
