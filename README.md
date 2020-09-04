@@ -50,6 +50,7 @@
 
 ## Recent Github Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 
