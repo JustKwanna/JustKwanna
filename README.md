@@ -54,6 +54,18 @@
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justkwanna" alt="justkwanna" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkwanna&layout=compact&hide=html" alt="justkwanna" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justkwanna&show_icons=true" alt="justkwanna" /></p>
+
+<p align="center">
+<a href="https://twitter.com/justkwanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="justkwanna" height="30" width="30" /></a>
+</p>
+
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
