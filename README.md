@@ -1,4 +1,5 @@
-[Test](<div class="github-card" data-github="JustKwanna" data-width="400" data-height="317" data-theme="medium"></div>)
+[github-card](test.com)
+<div class="github-card" data-github="JustKwanna" data-width="400" data-height="317" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 ### Hello!, My name is JustKwanna, <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
 
