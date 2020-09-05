@@ -62,6 +62,9 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com/
 
+## Favorite Animes
+<!-- favorites_anime starts -->
+<!-- favorites_anime ends -->
 
 
 
