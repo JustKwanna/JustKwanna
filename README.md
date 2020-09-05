@@ -1,6 +1,5 @@
-[github-card](test.com)
 <div class="github-card" data-github="JustKwanna" data-width="400" data-height="317" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+![//cdn.jsdelivr.net/github-cards/latest/widget.js]
 ### Hello!, My name is JustKwanna, <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
 
 [![Website](https://img.shields.io/website?label=kwanna.cf&style=for-the-badge&url=https%3A%2F%2Fkwanna.cf)](https://kwanna.cf) 
