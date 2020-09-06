@@ -62,16 +62,6 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com/
 
-## Favorite Animes
-<!-- favorites_anime starts -->
-<!-- favorites_anime ends -->
-
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
