@@ -26,7 +26,7 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Update README
         env:
-          ANILIST_TOKEN: ${{ secrets.eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjQxNmY1NzE3OTMyMDc0Nzg4NTE5NWJkMzIzMGQ3NmM3ODAzNmIxMDM4MDNlMGZmMWY0MTIxMzNmMGUxYjgzNTU3YTRhNWJmYzM5MDdkMTU3In0.eyJhdWQiOiI0MDM1IiwianRpIjoiNDE2ZjU3MTc5MzIwNzQ3ODg1MTk1YmQzMjMwZDc2Yzc4MDM2YjEwMzgwM2UwZmYxZjQxMjEzM2YwZTFiODM1NTdhNGE1YmZjMzkwN2QxNTciLCJpYXQiOjE1OTkzNjM0NTYsIm5iZiI6MTU5OTM2MzQ1NiwiZXhwIjoxNjMwODk5NDU2LCJzdWIiOiI2NzkwMTgiLCJzY29wZXMiOltdfQ.L5zc8esUXhwHh4vuHju7WTuuqXZ6HX1KYgfntDh2HikHs6najXtTaUCb56g3dUAWK0VjOzTCUxCqiVEvkJdn_bNURn4LjecWzNZOo7gvl9crPh63-gUnKdWGtPCd6UwC_jFwHmzTWkqwbAngbY7tRuIRE4FS8YeyC2h0kAnk8vqN5HZMXKcqXi1-eDo_MosZDOpWDA7joakPICJ1EqtEeoeRgP3z6tr9S7WE1SzIbQlfYLaiiYzf2hRg_7r4k_ljkUmV9aiWwNS0NfJj3yEEjwpyBxsYyLTt94fxed743ou9ZenNrmmWrqBFrCPeJPG_ih9IovlJidySvTho7QT1vTe3E4rVo_PTMYaBR6wfYdHxlQLY6ZqNfa9xZVWpL24aP3CypXFB1pMT1bCIdYGth70d3GhDTnPUFns1VnimsmnXsLgThJKUj1aE-HsM0w_jxnozUtyphetHjYSIFb4UOBZB2rX8WZdYcLHsP-sQReYJ0KVEtUHBROGEc18ailt_8DjB0_mc3Gfq45sTlQ1yunxaoUEPE4xDhpHbIe3daOH8N-m7ck2F0lxrdCy8ZuLAjy4b9ydk75o6WWzcy3c3oB-U-2cUIWw4_NmaYWNf0jECXPlpF3BCsJmxHT2bCd-GxDKLPhkWw2YQbLFAFAkwKCSnvBFrcHt2mOM1ZixsE1s }}
+          ANILIST_TOKEN: ${{ secrets.SECRET_TOKEN }}
         run: |-
           python favorites_updater.py
           python activity_updater.py
