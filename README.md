@@ -10,7 +10,7 @@
 <img hight="300" width="280" alt="GIF" align="right" src="https://thumbs.gfycat.com/CalculatingNeglectedGoldeneye-max-1mb.gif">
 
 
-## The creator of Aiko, and a fan of pokemon  d
+## The creator of Aiko, and a fan of pokemon
 
 
 <li> 😶 I'm currently new at developing </li>
