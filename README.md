@@ -1,4 +1,4 @@
-### Hello!, My name is JustKwanna, <a href="https://kwanna.cf/" rel="nofollow">Kwanna</a> for short
+### Hello!, My name is Stephen, <a href="https://kwanna.cf/" rel="nofollow">Steph</a> for short
 
 [![Website](https://img.shields.io/website?label=kwanna.cf&style=for-the-badge&url=https%3A%2F%2Fkwanna.cf)](https://kwanna.cf) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JustKwanna?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/JustKwanna) 
@@ -7,7 +7,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/JustKwanna/JustKwanna?style=for-the-badge)
 [![Aiko's Support Server](https://img.shields.io/discord/743324121714131056?label=Aiko%27s%20Support%20Server&style=for-the-badge)](https://discord.gg/hb32dpF) 
 
-<img hight="300" width="280" alt="GIF" align="right" src="https://thumbs.gfycat.com/CalculatingNeglectedGoldeneye-max-1mb.gif">
+<img hight="300" width="280" alt="GIF" align="right" src="http://24.media.tumblr.com/492180a73efc688f3b504eddfa414c5b/tumblr_msb5wb0wfk1sorll2o1_500.gif">
 
 
 ## The creator of Aiko, and a fan of pokemon
