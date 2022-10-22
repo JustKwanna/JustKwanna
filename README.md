@@ -63,7 +63,7 @@
 [github]: https://github.com/
 
 <img src=https://i.pinimg.com/564x/6c/f4/fe/6cf4fe2749e3e51ed46a92584c12cfe0.jpg align=left width=250>
-<img src=https://i.pinimg.com/564x/0f/e6/72/0fe6727593c3601762c97a3f76346e23.jpg align=right width=250>
+<img src=https://i.pinimg.com/564x/0f/e6/72/0fe6727593c3601762c97a3f76346e23.jpg align=left width=250>
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
