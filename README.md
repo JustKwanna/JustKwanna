@@ -62,6 +62,7 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com/
 
+<img src=https://i.pinimg.com/564x/6c/f4/fe/6cf4fe2749e3e51ed46a92584c12cfe0.jpg>
 <!--
 **JustKwanna/JustKwanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
