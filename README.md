@@ -10,7 +10,7 @@
 <img hight="300" width="280" alt="GIF" align="right" src="http://24.media.tumblr.com/492180a73efc688f3b504eddfa414c5b/tumblr_msb5wb0wfk1sorll2o1_500.gif">
 
 
-## The creator of Aiko, and a fan of pokemon
+## The creator of Aiko, and a fan of painting
 
 
 <li> 😶 I'm currently new at developing </li>
